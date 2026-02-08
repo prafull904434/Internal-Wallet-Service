@@ -62,6 +62,6 @@ We use specific locking strategies to handle high concurrency:
 
 ## Seeding
 On startup, the application seeds:
-- Users: John Doe, Jane Smith
+- Users: Prafull, Anupam
 - Assets: USD, EUR
 - Initial Topups
